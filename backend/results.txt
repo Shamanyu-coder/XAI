@@ -1,0 +1,14 @@
+--- 1. BGR [0, 255] ---
+Top Pred: Tree Pose yoga (25.57%)
+--- 2. RGB [0, 255] ---
+Top Pred: Tree Pose yoga (29.06%)
+--- 3. BGR [0, 1] ---
+Top Pred: Seated Forward Bend yoga (12.79%)
+--- 4. RGB [0, 1] ---
+Top Pred: Tree Pose yoga (12.94%)
+--- 5. RGB [-1, 1] ---
+Top Pred: Tree Pose yoga (21.72%)
+--- 6. MobileNetV2 ---
+Top Pred: Tree Pose yoga (21.72%)
+--- 7. ResNet50 ---
+Top Pred: Tree Pose yoga (22.02%)

@@ -1,0 +1,531 @@
+[
+  {
+    "id": 1,
+    "english_name": "Downward-Facing Dog",
+    "sanskrit_name": "Adho Mukha Svanasana",
+    "category": ["Standing", "Inversion", "Forward Fold", "Stretching"],
+    "benefits": [
+      "Stretches the shoulders, hamstrings, calves, and hands.",
+      "Strengthens the arms and legs.",
+      "Calms the brain and helps relieve stress and mild depression.",
+      "Energizes the body by bringing fresh blood to the head."
+    ],
+    "timing_guidance": {
+      "hold_duration": "5 to 10 breaths (30 seconds to 1 minute)",
+      "when_to_perform": "Can be performed at any time; often used as a transitional or resting pose."
+    },
+    "ailments_helped": [
+      "Sciatica (mild)",
+      "Asthma",
+      "Flat feet",
+      "Sinusitis",
+      "Headache"
+    ],
+    "suitable_age_group": "5 to 80+ years (with proper modification)",
+    "contraindications": [
+      "Recent or chronic injury to the wrists, shoulders, or back.",
+      "High blood pressure or headache (must modify: use a block for head support).",
+      "Late-term pregnancy.",
+      "Diarrhea."
+    ]
+  },
+  {
+    "id": 2,
+    "english_name": "Tree Pose",
+    "sanskrit_name": "Vrikshasana",
+    "category": ["Standing", "Balancing"],
+    "benefits": [
+      "Improves balance, concentration, and focus.",
+      "Strengthens the thighs, calves, ankles, and spine.",
+      "Stretches the groins and inner thigh.",
+      "Helps relieve sciatica and reduce flat feet."
+    ],
+    "timing_guidance": {
+      "hold_duration": "30 seconds to 1 minute per side (5 to 10 breaths)",
+      "when_to_perform": "Great for morning practice to establish focus and grounding."
+    },
+    "ailments_helped": ["Sciatica", "Imbalance/Lack of focus", "Flat feet"],
+    "suitable_age_group": "8 to 70 years (can use a wall for support)",
+    "contraindications": [
+      "Headache.",
+      "Insomnia.",
+      "High blood pressure (do not raise hands above the heart)."
+    ]
+  },
+  {
+    "id": 3,
+    "english_name": "Cobra Pose",
+    "sanskrit_name": "Bhujangasana",
+    "category": ["Prone", "Backbend"],
+    "benefits": [
+      "Strengthens the spine and deep back muscles.",
+      "Stretches the chest, shoulders, and abdomen.",
+      "Tones the abdominal organs.",
+      "Improves spinal flexibility and posture."
+    ],
+    "timing_guidance": {
+      "hold_duration": "15 to 30 seconds (3 to 5 breaths), repeated 3-5 times.",
+      "when_to_perform": "Excellent as part of a Sun Salutation or to counter forward-bending poses."
+    },
+    "ailments_helped": [
+      "Mild back pain",
+      "Asthma",
+      "Stress/Fatigue",
+      "Menstrual disorders (by toning reproductive organs)"
+    ],
+    "suitable_age_group": "10 to 75 years",
+    "contraindications": [
+      "Pregnancy.",
+      "Recent abdominal surgery or severe abdominal injury (e.g., hernia).",
+      "Severe back injury (e.g., slipped disc or acute sciatica flare-up)."
+    ]
+  },
+  {
+    "id": 4,
+    "english_name": "Child's Pose",
+    "sanskrit_name": "Balasana",
+    "category": ["Kneeling", "Forward Fold", "Restorative"],
+    "benefits": [
+      "Gently stretches the hips, thighs, and ankles.",
+      "Calms the brain and helps relieve stress and fatigue.",
+      "Relieves back and neck pain when supported.",
+      "Encourages deep, slow breathing."
+    ],
+    "timing_guidance": {
+      "hold_duration": "30 seconds up to 5 minutes or longer as a resting pose.",
+      "when_to_perform": "Used for rest between challenging poses, or as a concluding, calming pose."
+    },
+    "ailments_helped": [
+      "Stress",
+      "Fatigue",
+      "Anxiety",
+      "Mild back and neck pain"
+    ],
+    "suitable_age_group": "All ages (0 to 100+ years)",
+    "contraindications": [
+      "Knee injury (must use a thick blanket or cushion between calves and thighs).",
+      "Diarrhea.",
+      "Pregnancy (widen knees substantially to accommodate the abdomen)."
+    ]
+  },
+  {
+    "id": 5,
+    "english_name": "Warrior II",
+    "sanskrit_name": "Virabhadrasana II",
+    "category": ["Standing", "Strength", "Hip Opener"],
+    "benefits": [
+      "Strengthens and stretches the legs, ankles, and chest.",
+      "Increases stamina and concentration.",
+      "Stimulates abdominal organs.",
+      "Relieves backache, especially during the second trimester of pregnancy."
+    ],
+    "timing_guidance": {
+      "hold_duration": "30 seconds to 1 minute per side (5 to 10 breaths)",
+      "when_to_perform": "Part of a flow or standing sequence, excellent for building heat and focus."
+    },
+    "ailments_helped": ["Sciatica", "Flat feet", "Carpal Tunnel Syndrome"],
+    "suitable_age_group": "12 to 65 years",
+    "contraindications": [
+      "Recent or chronic knee or hip injury (modify by using props or reducing the depth of the lunge).",
+      "High blood pressure (keep head neutral).",
+      "Heart problems."
+    ]
+  },
+  {
+    "id": 6,
+    "english_name": "Mountain Pose",
+    "sanskrit_name": "Tadasana",
+    "category": ["Standing", "Grounding", "Foundational"],
+    "benefits": [
+      "Firms the abdomen and buttocks.",
+      "Improves posture and corrects flat feet.",
+      "Strengthens the thighs, knees, and ankles.",
+      "Increases consciousness and presence."
+    ],
+    "timing_guidance": {
+      "hold_duration": "30 seconds up to 3 minutes.",
+      "when_to_perform": "Starting and ending pose for standing sequences; can be done anytime for posture correction."
+    },
+    "ailments_helped": [
+      "Flat feet",
+      "Poor posture",
+      "Sciatica (when done with proper alignment)"
+    ],
+    "suitable_age_group": "All ages (0 to 100+ years)",
+    "contraindications": ["Headache or Insomnia (may feel ungrounded)."]
+  },
+  {
+    "id": 7,
+    "english_name": "Plank Pose",
+    "sanskrit_name": "Kumbhakasana",
+    "category": ["Prone", "Arm Balance", "Strengthening"],
+    "benefits": [
+      "Strengthens the core, arms, wrists, and spine.",
+      "Tones the abdominal organs.",
+      "Builds stamina and mental focus.",
+      "Prepares the body for arm balances and inversions."
+    ],
+    "timing_guidance": {
+      "hold_duration": "30 seconds to 1 minute, repeated 2-3 times.",
+      "when_to_perform": "Often a transition in Vinyasa flow, or practiced independently for core strength."
+    },
+    "ailments_helped": ["Mild fatigue", "Stress"],
+    "suitable_age_group": "15 to 60 years",
+    "contraindications": [
+      "Carpal tunnel syndrome.",
+      "Wrist or shoulder injury.",
+      "Recent abdominal surgery.",
+      "Late-term pregnancy."
+    ]
+  },
+  {
+    "id": 8,
+    "english_name": "Triangle Pose",
+    "sanskrit_name": "Utthita Trikonasana",
+    "category": ["Standing", "Lateral Bend", "Stretching"],
+    "benefits": [
+      "Stretches the hips, groins, hamstrings, and calves.",
+      "Strengthens the legs, knees, and ankles.",
+      "Relieves backache and mild stress.",
+      "Aids in digestion."
+    ],
+    "timing_guidance": {
+      "hold_duration": "30 seconds to 1 minute per side (5-8 breaths).",
+      "when_to_perform": "Best in a standing sequence when the body is warm."
+    },
+    "ailments_helped": [
+      "Stress",
+      "Anxiety",
+      "Sciatica",
+      "Flat feet",
+      "Infertility"
+    ],
+    "suitable_age_group": "10 to 70 years",
+    "contraindications": [
+      "Headache or migraine.",
+      "Diarrhea.",
+      "Low blood pressure (only rise slowly).",
+      "Heart condition (gaze down)."
+    ]
+  },
+  {
+    "id": 9,
+    "english_name": "Seated Forward Bend",
+    "sanskrit_name": "Paschimottanasana",
+    "category": ["Seated", "Forward Fold", "Calming"],
+    "benefits": [
+      "Calms the brain and helps relieve stress.",
+      "Stretches the spine, hamstrings, and shoulders.",
+      "Stimulates the liver, kidneys, ovaries, and uterus.",
+      "Aids digestion and relieves menstrual discomfort."
+    ],
+    "timing_guidance": {
+      "hold_duration": "1 to 5 minutes.",
+      "when_to_perform": "Ideal towards the end of a practice; best performed on an empty stomach."
+    },
+    "ailments_helped": [
+      "Anxiety",
+      "Headache",
+      "Insomnia",
+      "High blood pressure",
+      "Sinusitis"
+    ],
+    "suitable_age_group": "10 to 80+ years (with bent knees for stiff backs)",
+    "contraindications": [
+      "Asthma or Diarrhea.",
+      "Back injury (only practice with bent knees and a minimal fold).",
+      "Pregnancy (only a very minimal fold with widely spread legs)."
+    ]
+  },
+  {
+    "id": 10,
+    "english_name": "Bridge Pose",
+    "sanskrit_name": "Setu Bandhasana",
+    "category": ["Supine", "Backbend", "Restorative"],
+    "benefits": [
+      "Stretches the chest, neck, and spine.",
+      "Calms the brain and alleviates stress and mild depression.",
+      "Stimulates abdominal organs, thyroid, and lungs.",
+      "Helps relieve symptoms of menopause and menstrual discomfort."
+    ],
+    "timing_guidance": {
+      "hold_duration": "30 seconds to 1 minute (5-10 breaths), repeated 3-5 times.",
+      "when_to_perform": "Can be used as a therapeutic pose or a mild backbend preparation."
+    },
+    "ailments_helped": ["Asthma", "Osteoporosis", "Sinusitis", "Headache"],
+    "suitable_age_group": "10 to 80+ years",
+    "contraindications": [
+      "Neck injury (must practice with extreme caution and supervision).",
+      "Recent abdominal surgery."
+    ]
+  },
+  {
+    "id": 11,
+    "english_name": "Boat Pose",
+    "sanskrit_name": "Paripurna Navasana",
+    "category": ["Seated", "Core Strength", "Balancing"],
+    "benefits": [
+      "Strengthens the abdomen, spine, and hip flexors.",
+      "Stimulates the kidneys, thyroid, and prostate glands.",
+      "Aids in digestion and relieves stress.",
+      "Improves balance and focus."
+    ],
+    "timing_guidance": {
+      "hold_duration": "15 seconds to 30 seconds (3-5 breaths), repeated 3 times.",
+      "when_to_perform": "Best in the middle of a practice to build heat and core strength."
+    },
+    "ailments_helped": [
+      "Digestive issues",
+      "Stress",
+      "Low back pain (strengthening the core helps stability)"
+    ],
+    "suitable_age_group": "15 to 60 years",
+    "contraindications": [
+      "Asthma or headache.",
+      "Recent abdominal surgery or lower back injury.",
+      "Heart problems.",
+      "Menstruation or pregnancy."
+    ]
+  },
+  {
+    "id": 12,
+    "english_name": "Half Lord of the Fishes Pose",
+    "sanskrit_name": "Ardha Matsyendrasana",
+    "category": ["Seated", "Twist"],
+    "benefits": [
+      "Stretches the shoulders, hips, and neck.",
+      "Energizes the spine and stimulates the abdominal organs (liver and kidneys).",
+      "Relieves backache, fatigue, and sciatica.",
+      "Opens the chest and improves breathing."
+    ],
+    "timing_guidance": {
+      "hold_duration": "30 seconds to 1 minute per side (5-8 breaths).",
+      "when_to_perform": "Excellent for improving spinal mobility and digestion, often practiced before savasana."
+    },
+    "ailments_helped": [
+      "Backache",
+      "Sciatica",
+      "Constipation/Indigestion",
+      "Menstrual discomfort"
+    ],
+    "suitable_age_group": "10 to 80+ years (modify twist depth for seniors)",
+    "contraindications": [
+      "Severe back injury or spinal disc issues (twists should be gentle).",
+      "Pregnancy (only a very mild open twist)."
+    ]
+  },
+  {
+    "id": 13,
+    "english_name": "Chair Pose",
+    "sanskrit_name": "Utkatasana",
+    "category": ["Standing", "Strength"],
+    "benefits": [
+      "Strengthens the thighs, calves, ankles, and spine.",
+      "Tones the shoulders, abdomen, and hip flexors.",
+      "Stimulates the heart, diaphragm, and abdominal organs.",
+      "Relieves flat feet."
+    ],
+    "timing_guidance": {
+      "hold_duration": "30 seconds to 1 minute (5-10 breaths).",
+      "when_to_perform": "High-energy pose, best performed in the middle of a practice to build heat."
+    },
+    "ailments_helped": [
+      "Flat feet",
+      "Mild arthritis (improves circulation to joints)",
+      "Low back stiffness"
+    ],
+    "suitable_age_group": "15 to 65 years",
+    "contraindications": [
+      "Chronic knee or ankle injury.",
+      "Headache or insomnia.",
+      "Low blood pressure."
+    ]
+  },
+  {
+    "id": 14,
+    "english_name": "Extended Side Angle Pose",
+    "sanskrit_name": "Utthita Parsvakonasana",
+    "category": ["Standing", "Lateral Bend", "Hip Opener"],
+    "benefits": [
+      "Strengthens the legs, knees, and ankles.",
+      "Stretches the groins, spine, waist, chest, and shoulders.",
+      "Stimulates abdominal organs and increases stamina.",
+      "Helps relieve sciatica and menstrual discomfort."
+    ],
+    "timing_guidance": {
+      "hold_duration": "30 seconds to 1 minute per side (5-10 breaths).",
+      "when_to_perform": "Part of a standing pose sequence after warming up."
+    },
+    "ailments_helped": [
+      "Sciatica",
+      "Infertility",
+      "Osteoporosis",
+      "Constipation"
+    ],
+    "suitable_age_group": "10 to 70 years",
+    "contraindications": [
+      "Headache or insomnia.",
+      "Neck injury (keep the head in line with the spine).",
+      "High blood pressure."
+    ]
+  },
+  {
+    "id": 15,
+    "english_name": "Four-Limbed Staff Pose",
+    "sanskrit_name": "Chaturanga Dandasana",
+    "category": ["Arm Balance", "Strengthening", "Prone"],
+    "benefits": [
+      "Strengthens the arms, wrists, abdominal muscles, and chest.",
+      "Improves endurance and core stability.",
+      "Prepares the body for more advanced arm balances.",
+      "Tones the entire body."
+    ],
+    "timing_guidance": {
+      "hold_duration": "10 to 20 seconds (3-5 breaths).",
+      "when_to_perform": "Used as a transition in Vinyasa style classes; requires significant warm-up."
+    },
+    "ailments_helped": [
+      "Mild fatigue",
+      "Poor posture (improves shoulder strength)"
+    ],
+    "suitable_age_group": "18 to 55 years (Intermediate/Advanced)",
+    "contraindications": [
+      "Carpal tunnel syndrome.",
+      "Wrist, elbow, or shoulder injury.",
+      "Pregnancy.",
+      "Low back injury (must modify with knees down)."
+    ]
+  },
+  {
+    "id": 16,
+    "english_name": "Garland Pose",
+    "sanskrit_name": "Malasana",
+    "category": ["Squatting", "Hip Opener"],
+    "benefits": [
+      "Stretches the hips, groins, and ankles.",
+      "Tones the abdomen and improves digestion.",
+      "Increases circulation and blood flow to the pelvis.",
+      "Relieves back pain in the lower spine."
+    ],
+    "timing_guidance": {
+      "hold_duration": "30 seconds to 1 minute.",
+      "when_to_perform": "Excellent for opening the hips, can be done anytime."
+    },
+    "ailments_helped": [
+      "Indigestion/Constipation",
+      "Sciatica (mild)",
+      "Lower back pain"
+    ],
+    "suitable_age_group": "10 to 80+ years (can sit on a block for support)",
+    "contraindications": [
+      "Serious knee or ankle injury.",
+      "Recent lower back surgery."
+    ]
+  },
+  {
+    "id": 17,
+    "english_name": "Plow Pose",
+    "sanskrit_name": "Halasana",
+    "category": ["Inversion", "Forward Fold"],
+    "benefits": [
+      "Calms the brain and central nervous system.",
+      "Stretches the shoulders and spine.",
+      "Stimulates the thyroid gland and abdominal organs.",
+      "Helps relieve stress, fatigue, and insomnia."
+    ],
+    "timing_guidance": {
+      "hold_duration": "1 to 5 minutes.",
+      "when_to_perform": "Best performed late in practice, often following Shoulderstand."
+    },
+    "ailments_helped": [
+      "Insomnia",
+      "Headache/Sinusitis",
+      "Asthma",
+      "Menopause"
+    ],
+    "suitable_age_group": "18 to 60 years (Intermediate/Advanced)",
+    "contraindications": [
+      "Diarrhea.",
+      "Menstruation.",
+      "Neck injury (AVOID completely).",
+      "Asthma, high blood pressure, or glaucoma."
+    ]
+  },
+  {
+    "id": 18,
+    "english_name": "Corpse Pose",
+    "sanskrit_name": "Savasana",
+    "category": ["Restorative", "Supine"],
+    "benefits": [
+      "Relaxes the whole body, reducing stress and calming the brain.",
+      "Reduces headache, fatigue, and insomnia.",
+      "Lowers blood pressure.",
+      "Allows the body to absorb the full benefits of the practice."
+    ],
+    "timing_guidance": {
+      "hold_duration": "5 to 15 minutes.",
+      "when_to_perform": "ALWAYS the final pose of any yoga session."
+    },
+    "ailments_helped": [
+      "Insomnia",
+      "High blood pressure",
+      "Anxiety",
+      "Stress-related disorders"
+    ],
+    "suitable_age_group": "All ages (0 to 100+ years)",
+    "contraindications": [
+      "None, unless lying flat on the back is painful (use blankets/bolsters for support)."
+    ]
+  },
+  {
+    "id": 19,
+    "english_name": "Head-to-Knee Pose",
+    "sanskrit_name": "Janu Sirsasana",
+    "category": ["Seated", "Forward Fold", "Stretching"],
+    "benefits": [
+      "Calms the brain and relieves mild depression.",
+      "Stretches the spine, hamstrings, and groins.",
+      "Stimulates the liver and kidneys.",
+      "Relieves anxiety, fatigue, and menstrual discomfort."
+    ],
+    "timing_guidance": {
+      "hold_duration": "1 to 3 minutes per side.",
+      "when_to_perform": "Resting forward fold, best practiced after seated twists or standing sequences."
+    },
+    "ailments_helped": [
+      "Anxiety",
+      "Insomnia",
+      "High blood pressure",
+      "Menstrual discomfort"
+    ],
+    "suitable_age_group": "10 to 80+ years (can use a strap for the foot)",
+    "contraindications": [
+      "Asthma or Diarrhea.",
+      "Knee injury (be extremely careful with the bent knee).",
+      "Back injury (must sit on a blanket and avoid excessive folding)."
+    ]
+  },
+  {
+    "id": 20,
+    "english_name": "Crow Pose",
+    "sanskrit_name": "Bakasana",
+    "category": ["Arm Balance", "Strengthening"],
+    "benefits": [
+      "Strengthens the arms, wrists, and abdominal organs.",
+      "Stretches the upper back and improves balance.",
+      "Tones the core and strengthens mental focus.",
+      "Aids in preparing for headstand and other inversions."
+    ],
+    "timing_guidance": {
+      "hold_duration": "10 to 30 seconds (3-7 breaths).",
+      "when_to_perform": "High-energy pose, best done in the middle of a practice when the body is fully warm."
+    },
+    "ailments_helped": ["Mild fatigue", "Lack of concentration"],
+    "suitable_age_group": "18 to 55 years (Intermediate/Advanced)",
+    "contraindications": [
+      "Carpal tunnel syndrome or wrist injury.",
+      "Pregnancy.",
+      "Recent headache or insomnia."
+    ]
+  }
+]
